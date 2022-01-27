@@ -9,6 +9,7 @@ import { RecipesPageRoutingModule } from './recipes-routing.module';
 import { RecipesPage } from './recipes.page';
 
 import { RouterModule, Routes } from '@angular/router';
+import { RecipeItemComponent } from './recipe-item/recipe-item.component';
 
 const routes: Routes = [
   {
@@ -25,6 +26,6 @@ const routes: Routes = [
     RecipesPageRoutingModule,
     RouterModule.forChild(routes)
   ],
-  declarations: [RecipesPage]
+  declarations: [RecipesPage, RecipeItemComponent]
 })
 export class RecipesPageModule {}
