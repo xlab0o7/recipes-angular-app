@@ -28,4 +28,9 @@ export class RecipesService {
   }
 
   constructor() { }
+deleteRecipe( recipeId: string) {
+  this.recipes = this.recipes.filter(
+    recipe => { return recipe.id !== recipeId;});
+}
+
 }
