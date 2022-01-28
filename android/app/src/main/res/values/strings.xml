@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">App</string>
-    <string name="title_activity_main">App</string>
-    <string name="package_name">com.recipies.app</string>
-    <string name="custom_url_scheme">com.recipies.app</string>
+    <string name="app_name">myown</string>
+    <string name="title_activity_main">myown</string>
+    <string name="package_name">com.recipe.app</string>
+    <string name="custom_url_scheme">com.recipe.app</string>
 </resources>
