@@ -1,0 +1,6 @@
+{
+	"appId": "com.recipe.app",
+	"appName": "myown",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

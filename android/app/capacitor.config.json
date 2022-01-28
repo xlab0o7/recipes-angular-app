@@ -1,0 +1,11 @@
+{
+  "appId": "com.recipes.app",
+  "appName": "recipe-app",
+  "bundledWebRuntime": true,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

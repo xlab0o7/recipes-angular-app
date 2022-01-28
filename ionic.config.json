@@ -1,5 +1,7 @@
 {
   "name": "myown",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
